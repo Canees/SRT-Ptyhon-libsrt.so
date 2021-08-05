@@ -1,0 +1,13 @@
+/var/www/SRT/build/CMakeFiles/install/strip.dir
+/var/www/SRT/build/CMakeFiles/install/local.dir
+/var/www/SRT/build/CMakeFiles/install.dir
+/var/www/SRT/build/CMakeFiles/rebuild_cache.dir
+/var/www/SRT/build/CMakeFiles/srt-tunnel.dir
+/var/www/SRT/build/CMakeFiles/srt_shared.dir
+/var/www/SRT/build/CMakeFiles/srt-live-transmit.dir
+/var/www/SRT/build/CMakeFiles/edit_cache.dir
+/var/www/SRT/build/CMakeFiles/srt_static.dir
+/var/www/SRT/build/CMakeFiles/srt_virtual.dir
+/var/www/SRT/build/CMakeFiles/srtsupport_virtual.dir
+/var/www/SRT/build/CMakeFiles/list_install_components.dir
+/var/www/SRT/build/CMakeFiles/srt-file-transmit.dir
